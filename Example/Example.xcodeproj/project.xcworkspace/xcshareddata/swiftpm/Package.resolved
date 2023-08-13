@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "MemorySavingTabBarController",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/MemorySavingTabBarController.git",
+      "state" : {
+        "revision" : "c3b522b5556bab6114e0b502a7ce8f29244d77a9",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
